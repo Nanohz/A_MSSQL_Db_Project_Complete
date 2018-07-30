@@ -229,4 +229,4 @@ from books
  inner join book_authors on books.BookId = book_authors.BookId
  where AuthorName = 'Stephen King';
 
- -- On questoin #7 I get an active result back from my query, but I see no data on the table, just column names...--
+
